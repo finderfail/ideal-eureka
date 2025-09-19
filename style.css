@@ -144,3 +144,49 @@
     margin-left: 900px;
     margin-top: -85px;
 }
+
+#boldandsimple {
+    text-transform: uppercase;
+    margin-left: 200px;
+    margin-top: 60px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.supergrayblock {
+    height: 137px;
+    background-color: #111c24;
+}
+
+#kickstarter {
+    color: white;
+    text-align: center;
+    font-size: 64px;
+    font-weight: bolder;
+    padding-top: 32px;
+}
+
+.overlaytext {
+    position: absolute;
+    font-weight: 300px;
+    font-size: 16px;
+    top: 400%;
+    left: 5%;
+
+    
+}
+
+
+.bigimage {
+    height: 600px;
+}
+
+
+.lastblock {
+    height: 639px;
+
+}
+
+.startedtext {
+    font-size: 56px;
+}
