@@ -188,5 +188,57 @@
 }
 
 .startedtext {
-    font-size: 56px;
+    font-size: 64px;
+    font-weight: 300;
+    margin-left: 360px;
 }
+
+#sc {
+    font-size: 16px;
+    margin-left: 120px;
+}
+#blog {
+    font-size: 16px;
+    margin-left: 60px;
+}
+#twitter {
+    font-size: 16px;
+    margin-left: 60px;
+}
+
+#bento {
+    font-size: 16px;
+    margin-left: 240px;
+    margin-top: -35px;
+}
+
+#lnin {
+    font-size: 16px;
+    margin-left: 240px;
+
+}
+
+#contacts {
+    font-size: 16px;
+    margin-top: -18px;
+    margin-left: 540px;
+}
+
+#copyright {
+    margin-left: 1060px;
+    margin-top: -18px;
+}
+
+#date {
+    position: relative;
+    /* display: block; */
+    margin-left: 1060px;
+    margin-top: -50px;
+}
+
+#fio {
+    position: relative;
+    margin-left: 540px;
+    margin-top: -28px;
+}
+
