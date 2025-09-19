@@ -5,12 +5,12 @@
 #headerSimple {
     font-weight: bold;
     text-align: center;
-    padding-left: 650px;
+    padding-left: 600px;
 }
 
 #headerContact {
     text-align: center;
-    padding-left: 650px;
+    padding-left: 550px;
 }
 
 #link {
@@ -34,6 +34,7 @@
 .crumbs ul {
   list-style-type: none;
   padding-left: 0;
+  font-size: 24px;
 }
 
 .crumb {
@@ -69,4 +70,23 @@
     font-size: 64px;
     font-weight: bolder;
     padding-top: 32px;
+}
+
+.blackBoard {
+    background-color: black;
+    height: 600px;
+}
+
+.headerBlackBoard {
+    padding-top: 250px;
+    text-align: center;
+    color: white;
+}
+
+.headerBlackBoard h2 {
+    font-weight: 500;
+}
+.headerBlackBoard p {
+    font-weight: bold;
+    font-size: 48px;
 }
