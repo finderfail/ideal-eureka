@@ -90,3 +90,15 @@
     font-weight: bold;
     font-size: 48px;
 }
+
+.textwhiteIDk {
+    height: 264px;
+    font-size: 64px;
+    font-weight: 300;
+}
+
+
+.whiteSecondBlock {
+    height: 852px;
+    background-color: white;
+}
