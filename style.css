@@ -116,3 +116,31 @@
     font-size: 16px;
     gap: 2px;
 }
+
+.grayBlock {
+    height: 583px;
+    background-color: #f9fafc;
+}
+.grayBlockInText {
+    font-size: 64px;
+    font-weight: 300;
+    padding-left: 60px;
+    padding-top: 60px;
+}
+
+.tailoredsolutinos {
+    font-size: 24px;
+    font-weight: 300;
+    /* padding-left: 60px;
+    padding-top: 60px; */
+    margin-left: 200px;
+}
+
+.comprehensitiveexpertise {
+    font-size: 24px;
+    font-weight: 300;
+    /* padding-left: 60px;
+    padding-top: 60px; */
+    margin-left: 900px;
+    margin-top: -85px;
+}
